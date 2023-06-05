@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /snlab/sitemap.xml
